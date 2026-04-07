@@ -63,7 +63,9 @@ The scope remains flexible and expands as the organization grows.
 ## Contributors
 
 <div align="center">
-  <img src="https://contrib.rocks/image?repo=BonyanOSS/*" alt="Contributors" />
+  <img src="https://contrib.rocks/image?repo=BonyanOSS/.github" alt="Contributors" />
+  <br />
+  <img src="https://contrib.rocks/image?repo=BonyanOSS/Etha3a-API" alt="Contributors" />
 </div>
 
 ---
