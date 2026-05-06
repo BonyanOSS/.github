@@ -1,73 +1,92 @@
 # BonyanOSS
 
 <div align="center">
-  <h3>Building Islamic and beneficial open-source software</h3>
+  <h3>Building open-source Islamic and beneficial software</h3>
+  <p>
+    A community-driven open-source initiative focused on Islamic tools,
+    developer infrastructure, and meaningful digital projects.
+  </p>
 </div>
 
 ---
 
-## About BonyanOSS
+## About
 
-**BonyanOSS** is an independent open-source organization focused on building Islamic and beneficial software projects. A small group of developers works collaboratively to create tools, platforms, and services that serve the Muslim community and contribute to meaningful digital infrastructure.
+**BonyanOSS** is an independent open-source organization dedicated to building Islamic and beneficial software.
 
-BonyanOSS operates on a simple principle: build beneficial software, keep it open, and allow the community to grow around it.
+Our goal is to create practical, maintainable, and accessible tools that serve the Muslim community, support developers, and contribute to long-term digital infrastructure for Islamic projects.
 
-The organization prioritizes clarity, usefulness, and sustainability over complexity. Projects are designed to remain accessible, maintainable, and open for future contributors and developers.
+BonyanOSS is built around a simple idea:
+
+> Build what benefits people, keep it open, and make it easier for others to continue.
+
+We focus on software that is clear in purpose, sustainable in design, and useful beyond its first release.
 
 ## Vision
 
-Establish a sustainable open-source ecosystem for Islamic and community-focused software. The long-term vision is to create foundational tools and infrastructure that other developers and organizations can build upon.
+Our long-term vision is to establish a sustainable open-source ecosystem for Islamic and community-focused software.
 
-Focus areas:
+We aim to build foundations that developers, students, researchers, organizations, and communities can use, extend, and improve over time.
 
-- **Islamic educational software**
-- **Quran and Hadith related tools**
-- **Developer utilities for Islamic projects**
-- **Community infrastructure**
-- **APIs and datasets**
-- **Knowledge and research-based platforms**
+### Focus Areas
+
+- Quran-related applications and tools
+- Hadith-related applications and tools
+- Islamic learning and study platforms
+- APIs and structured datasets
+- Developer libraries for Islamic projects
+- Community-focused web platforms
+- Research and knowledge tools
+- Automation and productivity utilities
 
 ## Philosophy
 
-A development philosophy centered around:
+BonyanOSS follows a development philosophy centered on:
 
-- **Simplicity** over complexity
-- **Long-term** maintainability
-- **Open** collaboration
-- **Transparent** development
-- **Community benefit** first
+- **Benefit first**: every project should serve a meaningful purpose
+- **Simplicity**: clear, focused software over unnecessary complexity
+- **Maintainability**: projects should be easy to understand, improve, and continue
+- **Openness**: transparent development and open collaboration
+- **Sustainability**: building for the long term, not just the first release
 
-Projects under BonyanOSS remain open, extensible, and useful beyond their initial scope.
+We believe Islamic open-source software should be reliable, accessible, and welcoming to future contributors.
 
-## Structure
+## How We Build
 
-BonyanOSS is a collaborative space where developers work together on shared goals, rather than a traditional organization. Projects evolve naturally based on community needs without rigid structures.
+BonyanOSS is not just a collection of separate projects.
 
-Each project is a building block within a larger ecosystem. Over time, these blocks form a cohesive foundation for Islamic open-source software.
+Each project is treated as a building block within a larger ecosystem. Over time, these projects can form shared infrastructure for Islamic applications, educational tools, APIs, datasets, and developer resources.
 
-## Projects Scope
+The organization grows naturally through collaboration, community needs, and thoughtful development.
 
-Projects developed under BonyanOSS may include:
+## Project Scope
+
+Projects under BonyanOSS may include:
 
 - Quran applications
 - Hadith applications
 - Islamic study tools
-- Developer libraries
-- APIs
+- APIs and backend services
 - Web platforms
-- Automation tools
+- Developer utilities
+- Open datasets
 - Research tools
+- Automation tools
+- Community infrastructure
 
-The scope remains flexible and expands as the organization grows.
+The scope remains flexible as the organization grows and new needs appear.
 
 ## Contributors
 
 <div align="center">
-  <img src="https://contrib.rocks/image?repo=BonyanOSS/.github" alt="Contributors" />
-  <br />
-  <img src="https://contrib.rocks/image?repo=BonyanOSS/Etha3a-API" alt="Contributors" />
+  <img src="https://contrib.rocks/image?repo=BonyanOSS/Etha3a-API" alt="Etha3a API Contributors" />
 </div>
 
 ---
 
-BonyanOSS is built as a long-term open-source initiative focused on beneficial technology, sustainable development, and collaborative building. The goal is not to create isolated projects, but to build a foundation that enables future developers to continue building meaningful software.
+<div align="center">
+  <p>
+    BonyanOSS is a long-term open-source initiative for building beneficial,
+    sustainable, and community-driven software.
+  </p>
+</div>
